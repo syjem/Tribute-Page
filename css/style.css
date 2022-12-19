@@ -13,3 +13,10 @@ h1 {
     font-size: 4rem;
     margin: 0;
 }
+
+@media (max-width: 460px){
+    h1 {
+        font-size: 3.5rem;
+        line-height: 1.2;
+    }
+}
