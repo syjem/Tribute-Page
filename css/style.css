@@ -65,3 +65,8 @@ img {
         font-size: 1.4rem;
     }
 }
+
+#headline {
+    margin: 50px;
+    text-align: center;
+}
