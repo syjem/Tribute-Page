@@ -14,7 +14,7 @@ h1 {
     margin: 0;
 }
 
-@media (max-width: 460px){
+@media (max-width: 460px) {
     h1 {
         font-size: 3.5rem;
         line-height: 1.2;
@@ -37,4 +37,9 @@ a:visited {
     padding: 15px;
     border-radius: 5px;
     background: rgb(241, 231, 231);
+}
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
 }
