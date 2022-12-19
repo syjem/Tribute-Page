@@ -43,3 +43,16 @@ a:visited {
         margin: 0;
     }
 }
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0  auto;
+}
+
+#img-div {
+    background: #e76f0d;
+    padding: 10px;
+    margin: 0;
+}
